@@ -1,4 +1,5 @@
-from adjacency_list import Graph
+from Graphs.adjacency_list import Graph
+#from adjacency_list import Graph
 
 stack = []
 def dfs(g,v_list,value):
