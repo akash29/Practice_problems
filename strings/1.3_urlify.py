@@ -9,5 +9,5 @@ def urlify(string, len_str):
 
     return result_str
 
-test_str = "Mr John Smith"
+test_str = "Mr John Smith  "
 print(urlify(test_str, 13))

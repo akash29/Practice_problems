@@ -1,4 +1,4 @@
-from adjacency_list import Graph
+from Graphs.adjacency_list import Graph
 from collections import deque, defaultdict
 
 
