@@ -1,3 +1,18 @@
+import numpy as np
+np.random.seed(17)
+rand_vals = np.random.rand()
+print(rand_vals)
+
+
+
+
+
+
+
+
+
+
+
 nums = [9,11,12,222,23,54,60]+[2,3,4]
 map_temp = {6:5,2:1,3:4,5:8}
 
